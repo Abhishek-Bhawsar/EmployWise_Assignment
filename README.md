@@ -1,3 +1,11 @@
+vercel url = https://employ-wise-assignment-ruddy.vercel.app
+
+use this credential for login----
+
+username: eve.holt@reqres.in
+password:  cityslicka
+
+
 # React + Vite
 
 
